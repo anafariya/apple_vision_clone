@@ -1,4 +1,8 @@
 
+## Demo
+
+https://anafariya.github.io/apple_vision_clone/
+
 # Apple Vision Clone
 
 This project is a clone of the Apple Vision landing page, created for practice purposes. It utilizes HTML, CSS, and JavaScript with the GSAP library for animation and ScrollTrigger for smooth scrolling effects
